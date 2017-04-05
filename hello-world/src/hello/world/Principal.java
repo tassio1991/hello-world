@@ -7,7 +7,7 @@ package hello.world;
 
 /**
  *
- * @author jean
+ * @author Tassio Vinicius <tas.sio@hotmail.com>
  */
 public class Principal {
 
